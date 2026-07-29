@@ -1,4 +1,4 @@
-# Maisha [Last Name]
+# Maisha Islam
 
 Computer Science student at CCNY, interested in AI, automation, and clean energy.
 
@@ -23,5 +23,5 @@ Python, React, Next.js, Prisma, SQL, Power BI, Machine Learning
 
 ## Contact
 
-Email: [your email]
-LinkedIn: [your LinkedIn URL]
+Email: islammaishaa9@gmail.com
+LinkedIn: https://www.linkedin.com/in/maishaai/
